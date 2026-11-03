@@ -25,3 +25,31 @@ A modular, robust, menu-driven Address Book application developed in C. It suppo
 ├── address_book.csv   # Storage file for contacts
 ├── Makefile           # Compilation commands
 └── README.md          # Project documentation
+
+
+## 🛠️ Build and Execution
+
+Follow these steps in your Ubuntu terminal / WSL2 environment to compile and execute the project:
+
+### Prerequisites
+Make sure `gcc` is installed on your Ubuntu system:
+```bash
+sudo apt update && sudo apt install -y build-essential
+
+Step 1: Compile the Project
+Open your terminal inside the project directory and compile all .c source files:
+gcc -Wall -o addressbook *.c
+
+
+Step 2: Run the Application
+Execute the compiled binary:
+./addressbook
+
+====== ADDRESS BOOK ======
+1. Add Contact
+2. Search Contact
+3. Edit Contact
+4. Delete Contact
+5. Display All Contacts
+6. Save & Exit
+Enter your choice:
