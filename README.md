@@ -102,7 +102,7 @@ Step 2: Run the Application
 Execute the compiled binary:
 ./addressbook 
 ```
-====== ADDRESS BOOK ======
+#====== ADDRESS BOOK ======
 1. Add Contact
 2. Search Contact
 3. Edit Contact
@@ -111,7 +111,7 @@ Execute the compiled binary:
 6. Save & Exit
 Enter your choice:
 
-💡 Key Concepts
+💡# Key Concepts
 Structures & Records: Managing structured contact entities in memory
 
 Modular Architecture: Clean separation using multi-file codebases
@@ -130,7 +130,7 @@ Multi-File Compilation: Linking independent translation units using the GCC comp
 
 Debugging & Validation: Verifying edge cases and console input streams
 
-🎯 Learning Outcomes
+🎯 #Learning Outcomes
 Designing interactive, menu-driven command-line interfaces in C
 
 Decomposing monolithic code into clean, reusable modules
@@ -145,5 +145,5 @@ Building, compiling, and debugging multi-source C projects in a Linux environmen
 
 Utilizing Git and GitHub for version control and repository management
 
-👤 Author
+👤# Author
 Developed by Ajinkya Mhangore as a dedicated C programming project to master modular software design, persistent file handling, and low-level data structures.
