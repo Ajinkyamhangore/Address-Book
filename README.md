@@ -130,6 +130,7 @@ Persistent File Storage: Saving and loading structured records via file handling
 Multi-File Compilation: Linking independent translation units using the GCC compiler
 
 Debugging & Validation: Verifying edge cases and console input streams
+
 ---
 
 # Learning Outcomes
@@ -147,5 +148,7 @@ Building, compiling, and debugging multi-source C projects in a Linux environmen
 
 Utilizing Git and GitHub for version control and repository management
 
-👤# Author
+---
+
+# Author
 Developed by Ajinkya Mhangore as a dedicated C programming project to master modular software design, persistent file handling, and low-level data structures.
