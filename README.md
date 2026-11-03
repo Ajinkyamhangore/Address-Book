@@ -49,7 +49,7 @@ Address-Book/
 ├── populate.h
 ├── contacts.txt
 └── README.md
-```[cite: 2]
+```
 
 ---
 
@@ -86,10 +86,10 @@ Documents the application, its structure, and instructions for use[cite: 2].
 ## 🛠️ Build and Execution
 
 Follow these steps in your Ubuntu terminal / WSL2 environment to compile and execute the project:
-
+** ** ```
 ### Prerequisites
 Make sure `gcc` is installed on your Ubuntu system:
-```bash
+
 sudo apt update && sudo apt install -y build-essential
 
 Step 1: Compile the Project
@@ -99,8 +99,9 @@ gcc -Wall -o addressbook *.c
 
 Step 2: Run the Application
 Execute the compiled binary:
-./addressbook
-
+./addressbook 
+```** **
+```
 ====== ADDRESS BOOK ======
 1. Add Contact
 2. Search Contact
