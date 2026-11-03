@@ -1,0 +1,13 @@
+# Binaries & Executables
+*.out
+*.exe
+address_book
+
+# Object files
+*.o
+*.obj
+
+# Temporary or swap files
+*.swp
+*~
+.DS_Store
