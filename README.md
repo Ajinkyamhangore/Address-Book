@@ -102,7 +102,7 @@ Step 2: Run the Application
 Execute the compiled binary:
 ./addressbook 
 ```
-#====== ADDRESS BOOK ======
+====== ADDRESS BOOK ======
 1. Add Contact
 2. Search Contact
 3. Edit Contact
@@ -110,8 +110,9 @@ Execute the compiled binary:
 5. Display All Contacts
 6. Save & Exit
 Enter your choice:
+---
 
-💡# Key Concepts
+# Key Concepts
 Structures & Records: Managing structured contact entities in memory
 
 Modular Architecture: Clean separation using multi-file codebases
@@ -129,8 +130,9 @@ Persistent File Storage: Saving and loading structured records via file handling
 Multi-File Compilation: Linking independent translation units using the GCC compiler
 
 Debugging & Validation: Verifying edge cases and console input streams
+---
 
-🎯 #Learning Outcomes
+# Learning Outcomes
 Designing interactive, menu-driven command-line interfaces in C
 
 Decomposing monolithic code into clean, reusable modules
