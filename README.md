@@ -83,10 +83,11 @@ A text file used for contact data, if configured by the application[cite: 2].
 Documents the application, its structure, and instructions for use[cite: 2].
 
 ---
+```
 ## 🛠️ Build and Execution
 
 Follow these steps in your Ubuntu terminal / WSL2 environment to compile and execute the project:
-** ** ```
+
 ### Prerequisites
 Make sure `gcc` is installed on your Ubuntu system:
 
@@ -100,7 +101,6 @@ gcc -Wall -o addressbook *.c
 Step 2: Run the Application
 Execute the compiled binary:
 ./addressbook 
-```** **
 ```
 ====== ADDRESS BOOK ======
 1. Add Contact
